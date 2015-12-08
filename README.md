@@ -19,4 +19,4 @@ Explore several crucial protein properties (e.g.,free energy, ionics effects, fo
 ### [Recover Time-Indepentent Free energy from Metadynamics][2]
 
 *
-[1]https://github.com/hsintmike/iPython/blob/master/Protein%20Structure%20and%20Solvent%20effects/Protein%20Structure%20and%20Solvents%20effects.ipynb  "Protein Structure and Solvent effects"
+[1: https://github.com/hsintmike/iPython/blob/master/Protein%20Structure%20and%20Solvent%20effects/Protein%20Structure%20and%20Solvents%20effects.ipynb  "Protein Structure and Solvent effects"
