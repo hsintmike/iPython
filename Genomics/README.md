@@ -1,4 +1,4 @@
-###Final Exam Instructions Help Center
+###Final Exam Instructions 
 
 Please thoroughly read the instructions below. When you are ready to take the Final Exam, please visit the Final Exam Page and click the blue Attempt Exam button. 
 
