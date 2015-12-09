@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains Python Code for my research projects including:
+This repository contains Python Code for research projects and exercises including:
 Analyze protein simulation results from lagre data sets, Animation of time-dependent data,
 Explore several crucial protein properties (e.g.,free energy, ionics effects, folding rate..), Statistical Analysis, Machine Learning and Genomics Data Science....still updating. 
 
