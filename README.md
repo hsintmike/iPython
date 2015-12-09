@@ -29,16 +29,21 @@ Explore several crucial protein properties (e.g.,free energy, ionics effects, fo
 * Cumulative Distribution function (CDF)
 * Empirical Cuumulative Distribution Funciton (ECDF)
 * p-value an KS-test
-* Automation sampling 
+* Automation Sampling 
 
-### [Time series animation][4]
+### [Time Series Animation][4]
 
 * Animation of time-dependent data
 * matplotlib.animation
 
 ### [Linear Regression][5]
 
+* Exercises - Coursera Machine Learning course, Stanford Univerisity
+* Optimized parameter in MD force filed for calculating adsorption energy
 
+###[Genomics][6]
+
+* Python for Genomic Data Science - Coursera, Johns Hopkins University
 
 
 
@@ -51,3 +56,4 @@ Explore several crucial protein properties (e.g.,free energy, ionics effects, fo
 [3]: https://github.com/hsintmike/iPython/blob/master/Statistic%20Analysis%20and%20Sampling/Statistic%20Analysis%20and%20Sampling.ipynb  "Statistic Analysis and Sampling"
 [4]: https://github.com/hsintmike/iPython/blob/master/Time%20series%20animation/Time%20series%20animation%20.ipynb "Time series animation]"
 [5]: https://github.com/hsintmike/iPython/tree/master/linear_regression "Linear Regression"
+[6]: https://github.com/hsintmike/iPython/tree/master/Genomics "Genomics"
