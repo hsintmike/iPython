@@ -44,7 +44,7 @@ Explore several crucial protein properties (e.g.,free energy, ionics effects, fo
 ###[Genomics][6]
 
 * Python for Genomic Data Science - Coursera, Johns Hopkins University
-* Pep8
+
 
 
 
