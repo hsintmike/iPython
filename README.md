@@ -18,7 +18,7 @@ Explore several crucial protein properties (e.g.,free energy, ionics effects, fo
 
 ### [Recover Time-Indepentent Free Energy from Metadynamics][2]
 
-* Recover time-idenpentent free energy surface by reference
+* Recover time-idenpentent free energy surface 
 * Free energy surface contourplot
 * Idenitfy basins in reaction coordinates
 * Covergence test of single state
@@ -27,13 +27,13 @@ Explore several crucial protein properties (e.g.,free energy, ionics effects, fo
 
 * Poisson Process
 * Cumulative Distribution function (CDF)
-* Empirical Cuumulative Distribution Funciton (ECDF)
+* Empirical Cumulative Distribution Funciton (ECDF)
 * p-value an KS-test
 * Automation Sampling 
 
 ### [Time Series Animation][4]
 
-* Animation of time-dependent data
+* Animation of Time-dependent data
 * matplotlib.animation
 
 ### [Linear Regression][5]
