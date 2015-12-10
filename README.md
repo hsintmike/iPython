@@ -1,6 +1,6 @@
 # Protein Simulation and Data Analysis in Python
 
-***Michael Tung - Chemical Engineering in Unviersity of Washington***
+***Michael Tung - ChemE Grad | University of Washington ***
 
 ## Description
 
