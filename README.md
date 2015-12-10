@@ -9,7 +9,7 @@ Analyze protein simulation results from lagre data sets, Animation of time-depen
 Explore several crucial protein properties (e.g.,free energy, ionics effects, folding rate..), Statistical Analysis, Machine Learning and Genomics Data Science....still updating. 
 
 ## Outline
-### [Protein Structure and Solvent effects][1]
+### [Protein Structure and Solvent Effects][1]
 
 * MDAnalysis package
 * H-bond vs simulation time
