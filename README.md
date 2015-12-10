@@ -16,7 +16,7 @@ Explore several crucial protein properties (e.g.,free energy, ionics effects, fo
 * Ions numbers around protein vs time
 * Ions to hydrophobic core distance vs time
 
-### [Recover Time-Indepentent Free energy from Metadynamics][2]
+### [Recover Time-Indepentent Free Energy from Metadynamics][2]
 
 * Recover time-idenpentent free energy surface by reference
 * Free energy surface contourplot
@@ -38,12 +38,14 @@ Explore several crucial protein properties (e.g.,free energy, ionics effects, fo
 
 ### [Linear Regression][5]
 
-* Exercises - Coursera Machine Learning course, Stanford Univerisity
-* Optimized parameter in MD force filed for calculating adsorption energy
+* Optimized parameter in MD force filed for calculating Adsorption Energy
 
 ###[Genomics][6]
 
-* Python for Genomic Data Science - Coursera, Johns Hopkins University
+* Read FASTA file
+* GC percent
+* Open Reading Frame (ORF)
+* Repeats
 
 
 
@@ -56,5 +58,5 @@ Explore several crucial protein properties (e.g.,free energy, ionics effects, fo
 
 [3]: https://github.com/hsintmike/iPython/blob/master/Statistic%20Analysis%20and%20Sampling/Statistic%20Analysis%20and%20Sampling.ipynb  "Statistic Analysis and Sampling"
 [4]: https://github.com/hsintmike/iPython/blob/master/Time%20series%20animation/Time%20series%20animation%20.ipynb "Time series animation]"
-[5]: https://github.com/hsintmike/iPython/tree/master/linear_regression "Linear Regression"
+[5]: https://github.com/hsintmike/iPython/blob/master/linear_regression/Machine%20Learning%20of%20MD%20vs%20DFT.ipynb "Linear Regression"
 [6]: https://github.com/hsintmike/iPython/tree/master/Genomics "Genomics"
