@@ -46,6 +46,7 @@ Explore several crucial protein properties (e.g.,free energy, ionics effects, fo
 * GC percent
 * Open Reading Frame (ORF)
 * Repeats
+* Sequence Similarity Search
 
 
 
