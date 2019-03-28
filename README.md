@@ -40,7 +40,7 @@ Explore several crucial protein properties (e.g.,free energy, ionics effects, fo
 
 * Optimized parameter in MD force filed for calculating Adsorption Energy
 
-###[Genomics][6]
+### [Genomics][6]
 
 * Read FASTA file
 * GC percent
